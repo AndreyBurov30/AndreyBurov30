@@ -5,9 +5,9 @@
   <img width="300" src="https://media.tenor.com/QHp-YQCKnHMAAAAC/cat-keyboard.gif" alt="andreyburov" />
 </p>
 
-- 🔭 I’m currently working on [TTWcome](https://ttwcome.ru/)
+- 🔭 Currently working on [TTWcome](https://ttwcome.ru/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 Learning **React Native**
 
 - 💬 We can talk about **React, TS and Redux**
 
